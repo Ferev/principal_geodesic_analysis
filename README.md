@@ -1,1 +1,1 @@
-# hyperbolic_embeddings
+# principal_geodesic_analysis
